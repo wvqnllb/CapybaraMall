@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.wvqnllb.capybaramall</groupId>
+    <artifactId>capybaramall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>capybaramall</name>
+    <description>Merge Service</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>capybaramall-product</module>
+        <module>capybaramall-ware</module>
+        <module>capybaramall-coupon</module>
+        <module>capybaramall-order</module>
+        <module>capybaramall-member</module>
+    </modules>
+
+</project>
