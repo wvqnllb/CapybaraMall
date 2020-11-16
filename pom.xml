@@ -15,6 +15,9 @@
         <module>capybaramall-coupon</module>
         <module>capybaramall-order</module>
         <module>capybaramall-member</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>capybaramall-common</module>
     </modules>
 
 </project>
